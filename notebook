@@ -1,8 +1,0 @@
-# Applied Data Science Capstone
-
-#### 1. GitHub and setting Jupyter Notebook
-
-import pandas as pd
-import numpy as np
-
-print('Hello Capstone Project Course!')
